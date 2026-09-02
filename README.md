@@ -80,3 +80,19 @@ Hasil uji non-parametrik **Kruskal-Wallis** menunjukkan perbedaan yang **signifi
    - **FSM** sangat ideal untuk pengembang yang memprioritaskan efisiensi komputasi maksimal dan perilaku deterministik yang dapat diprediksi.
    - **Utility-Based AI** sangat cocok untuk pertempuran NPC boss yang membutuhkan variasi perilaku dinamis, meski memerlukan biaya komputasi latensi yang lebih tinggi.
    - **MAB ($\epsilon$-greedy)** membutuhkan *time horizon* simulasi yang lebih panjang agar fase eksplorasi tidak mengalami konvergensi prematur pada aksi suboptimal.
+
+## 🎓 Informasi Tugas Akhir
+
+- **Penulis:** Firgi Khoiru Rijal (NIM: 10222102)
+- **Program Studi:** Informatika
+- **Perguruan Tinggi:** Sekolah Tinggi Teknologi Cipasung (STT Cipasung), Tasikmalaya
+- **Dosen Pembimbing I:** Reza Febriana, M.Kom.
+- **Dosen Pembimbing II:** Haerul Febriansyah, S.Kom.
+
+---
+
+## 📚 Referensi Utama
+
+1. Russell, S., & Norvig, P. *Artificial Intelligence: A Modern Approach*. Pearson.
+2. Mark, D. *Behavioral Mathematics for Game AI*. Charles River Media.
+3. Sutton, R. S., & Barto, A. G. *Reinforcement Learning: An Introduction*. MIT Press.
