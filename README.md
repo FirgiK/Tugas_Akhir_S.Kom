@@ -47,11 +47,13 @@ Berdasarkan pemrosesan 90 sesi simulasi, berikut adalah perbandingan nilai stati
 #### A. Distribusi Pemilihan Aksi (Action Distribution)
 
 <img width="1650" height="825" alt="action_distribution" src="https://github.com/user-attachments/assets/6024b577-e8ae-4bce-b734-b0c3a5cdd2cb" />
+
 |*Gambar 1: Perbandingan sebaran proporsi aksi yang dieksekusi oleh NPC boss pada setiap metode.*
 
 #### B. Sebaran Metric & Latensi (Boxplots)
 
 <img width="2250" height="1200" alt="boxplots" src="https://github.com/user-attachments/assets/1c600d70-1d63-4722-8a1b-1f3e79c3e55d" />
+
 |*Gambar 2: Boxplot rentang variabilitas metrik performa dan efisiensi komputasi.*
 
 #### C. Karakteristik Konvergensi MAB & Survival Rate
