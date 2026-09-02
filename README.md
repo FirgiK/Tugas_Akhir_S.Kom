@@ -45,17 +45,24 @@ Berdasarkan pemrosesan 90 sesi simulasi, berikut adalah perbandingan nilai stati
 ### 2. Visualisasi Grafik Performa
 
 #### A. Distribusi Pemilihan Aksi (Action Distribution)
-![Action Distribution](pengolahan_data_eksperimen/action_distribution.png)
+![Action Distribution]
+<img width="1650" height="825" alt="action_distribution" src="https://github.com/user-attachments/assets/6024b577-e8ae-4bce-b734-b0c3a5cdd2cb" />
 *Gambar 1: Perbandingan sebaran proporsi aksi yang dieksekusi oleh NPC boss pada setiap metode.*
 
 #### B. Sebaran Metric & Latensi (Boxplots)
-![Boxplots Evaluation](pengolahan_data_eksperimen/boxplots.png)
+![Boxplots Evaluation]
+<img width="2250" height="1200" alt="boxplots" src="https://github.com/user-attachments/assets/1c600d70-1d63-4722-8a1b-1f3e79c3e55d" />
 *Gambar 2: Boxplot rentang variabilitas metrik performa dan efisiensi komputasi.*
 
 #### C. Karakteristik Konvergensi MAB & Survival Rate
 | Konvergensi $\epsilon$-greedy (MAB) | Survival Time Across Sessions |
 | :---: | :---: |
-| ![MAB Convergence](pengolahan_data_eksperimen/mab_convergence.png) | ![Linechart Survival](pengolahan_data_eksperimen/linechart_survival.png) |
+| ![MAB Convergence]
+<img width="1200" height="750" alt="mab_convergence" src="https://github.com/user-attachments/assets/f8c24377-cdb1-4116-ac5a-767bcf8177e7" />
+
+| ![Linechart Survival]
+|<img width="1800" height="750" alt="linechart_survival" src="https://github.com/user-attachments/assets/89350ebf-047f-47cb-9589-aea5ae0bde9a" />
+
 | *Gambar 3: Eksplorasi vs Eksploitasi MAB.* | *Gambar 4: Stabilitas ketahanan NPC.* |
 
 ---
