@@ -1,0 +1,63 @@
+[gd_scene format=3 uid="uid://cl5k5s8mf11tw"]
+
+[ext_resource type="Script" uid="uid://dqp6n3w62rlfu" path="res://UI/experiment_ui.gd" id="1_rmdgy"]
+
+[node name="ExperimentUI" type="CanvasLayer" unique_id=1485161723]
+script = ExtResource("1_rmdgy")
+
+[node name="Panel" type="Panel" parent="." unique_id=313394924]
+anchors_preset = -1
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_right = -400.0
+offset_bottom = -225.0
+
+[node name="Agent" type="OptionButton" parent="Panel" unique_id=484088205]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 20.0
+
+[node name="StartButton" type="Button" parent="Panel" unique_id=295047251]
+layout_mode = 0
+offset_left = 665.0
+offset_top = 155.0
+offset_right = 711.0
+offset_bottom = 186.0
+text = "Start"
+
+[node name="StopButton" type="Button" parent="Panel" unique_id=233765045]
+layout_mode = 0
+offset_left = 665.0
+offset_top = 215.0
+offset_right = 708.0
+offset_bottom = 246.0
+text = "Stop"
+
+[node name="ResetButton" type="Button" parent="Panel" unique_id=10670876]
+layout_mode = 0
+offset_left = 665.0
+offset_top = 275.0
+offset_right = 716.0
+offset_bottom = 306.0
+text = "Reset"
+
+[node name="SessionLabel" type="Label" parent="Panel" unique_id=741208842]
+layout_mode = 0
+offset_left = 251.0
+offset_top = 5.0
+offset_right = 306.0
+offset_bottom = 37.0
+
+[node name="TimerLabel" type="Label" parent="Panel" unique_id=1550791526]
+layout_mode = 0
+offset_left = 139.0
+offset_top = 5.0
+offset_right = 194.0
+offset_bottom = 37.0
+
+[node name="StatusLabel" type="Label" parent="Panel" unique_id=1546224183]
+layout_mode = 0
+offset_left = 385.0
+offset_top = 6.0
+offset_right = 440.0
+offset_bottom = 38.0
