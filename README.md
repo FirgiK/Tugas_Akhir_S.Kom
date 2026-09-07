@@ -98,3 +98,11 @@ Hasil uji non-parametrik **Kruskal-Wallis** menunjukkan perbedaan yang **signifi
 1. Russell, S., & Norvig, P. *Artificial Intelligence: A Modern Approach*. Pearson.
 2. Mark, D. *Behavioral Mathematics for Game AI*. Charles River Media.
 3. Sutton, R. S., & Barto, A. G. *Reinforcement Learning: An Introduction*. MIT Press.
+
+---
+
+## All Asset On This Game Used
+
+1. https://craftpix.net/file-licenses/ (NPC 1)
+2. https://10kstudios.itch.io/top-down-boss-enemy-animated (NPC 2)
+3. URL=https://docs.cainos.net/pixel-art-top-down-basic (Arena)
